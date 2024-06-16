@@ -13,3 +13,7 @@ export const TextareaInput = styled.textarea`
   padding: 10px;
   border: 1px solid #9b9b9b6e;
 `;
+export const ErrorText = styled.p`
+  margin: 0;
+  color: red;
+`;
